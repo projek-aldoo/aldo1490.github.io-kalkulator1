@@ -1,1 +1,1 @@
-# aldo1490.github.io-kalkulator-v1
+# aldo1490.github.io/kalkulator-v1
